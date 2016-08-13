@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	You great a .git file which can not be seen by users.
+
+	You need one to use git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	staging area shows what is about to be committed, while repository shows what is already committed and working directory shows what is not.
+
+	This allows us to commit different things by themselves or together. 
