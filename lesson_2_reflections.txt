@@ -9,3 +9,12 @@ How is the staging area different from the working directory and the repository?
 	staging area shows what is about to be committed, while repository shows what is already committed and working directory shows what is not.
 
 	This allows us to commit different things by themselves or together. 
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	double check commit contatins everything you want to commit
+
+	make sure the commit isnt too logn 
+
+
