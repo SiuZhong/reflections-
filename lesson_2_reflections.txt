@@ -25,3 +25,17 @@ What are some situations when branches would be helpful in keeping your history 
 
 	branches help organizes because you can still view your original working verions. and versions with radical changes. 
 
+
+How do the diagrams help you visualize the branch structure?
+
+	they show where different features were branched off and how some gits are unreachable. 
+
+	
+
+
+
+
+
+
+
+
