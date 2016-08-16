@@ -4,6 +4,7 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	You need one to use git
 
+
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	staging area shows what is about to be committed, while repository shows what is already committed and working directory shows what is not.
@@ -15,6 +16,12 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	double check commit contatins everything you want to commit
 
-	make sure the commit isnt too logn 
+	make sure the commit isnt too long
 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	when you want to make more radical changes. e.g., new language versions, changing major parts
+
+	branches help organizes because you can still view your original working verions. and versions with radical changes. 
 
