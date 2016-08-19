@@ -36,7 +36,19 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	when two braches merge the commits are combined to make one branch. commits are order by time stamp.
 
-	
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros 
+		- quicker
+		- easier
+		- more efficient
+		- can detect if there are 2 changes of the same thing
+		
+	Cons
+		- may make the uncode un run able 
+		- may not take into account of incompatible changes 
 
 
 
