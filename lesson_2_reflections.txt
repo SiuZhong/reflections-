@@ -30,6 +30,12 @@ How do the diagrams help you visualize the branch structure?
 
 	they show where different features were branched off and how some gits are unreachable. 
 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	when two braches merge the commits are combined to make one branch. commits are order by time stamp.
+
 	
 
 
